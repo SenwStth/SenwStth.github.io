@@ -1,0 +1,9 @@
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\obj\Debug\тема 4.csproj.AssemblyReference.cache
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\obj\Debug\тема_4.Properties.Resources.resources
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\obj\Debug\тема 4.csproj.GenerateResource.cache
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\obj\Debug\тема 4.csproj.CoreCompileInputs.cache
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\bin\Debug\тема 4.exe.config
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\bin\Debug\тема 4.exe
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\bin\Debug\тема 4.pdb
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\obj\Debug\тема 4.exe
+C:\Users\timof\OneDrive\Desktop\тема 4\тема 4\obj\Debug\тема 4.pdb
