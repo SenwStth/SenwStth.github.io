@@ -1,6 +1,0 @@
-C:\Users\timof\OneDrive\Desktop\тема5\DictionaryLibrary\bin\Debug\DictionaryLibrary.dll
-C:\Users\timof\OneDrive\Desktop\тема5\DictionaryLibrary\bin\Debug\DictionaryLibrary.pdb
-C:\Users\timof\OneDrive\Desktop\тема5\DictionaryLibrary\obj\Debug\DictionaryLibrary.csproj.AssemblyReference.cache
-C:\Users\timof\OneDrive\Desktop\тема5\DictionaryLibrary\obj\Debug\DictionaryLibrary.csproj.CoreCompileInputs.cache
-C:\Users\timof\OneDrive\Desktop\тема5\DictionaryLibrary\obj\Debug\DictionaryLibrary.dll
-C:\Users\timof\OneDrive\Desktop\тема5\DictionaryLibrary\obj\Debug\DictionaryLibrary.pdb
