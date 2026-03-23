@@ -1,0 +1,13 @@
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.csproj.AssemblyReference.cache
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.Properties.Resources.resources
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.csproj.GenerateResource.cache
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.csproj.CoreCompileInputs.cache
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\bin\Debug\тема5.exe.config
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\bin\Debug\тема5.exe
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\bin\Debug\тема5.pdb
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\bin\Debug\DictionaryLibrary.dll
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\bin\Debug\DictionaryLibrary.pdb
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.csproj.Up2Date
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.exe
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.pdb
+C:\Users\timof\OneDrive\Desktop\тема5\тема5\obj\Debug\тема5.exe.config
