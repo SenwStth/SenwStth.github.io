@@ -1,0 +1,10 @@
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\EnglishLoto.csproj.AssemblyReference.cache
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\тема_6.Properties.Resources.resources
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\EnglishLoto.csproj.GenerateResource.cache
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\EnglishLoto.csproj.CoreCompileInputs.cache
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\bin\Debug\тема 6.exe.config
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\bin\Debug\тема 6.exe
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\bin\Debug\тема 6.pdb
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\тема 6.exe
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\тема 6.pdb
+C:\Users\timof\OneDrive\Desktop\тема 6\тема 6\obj\Debug\тема 6.exe.config

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+    <gameinfo>
+        <name>English Loto</name>
+        <version>1.0</version>
+        <description>Игра для изучения английских слов по картинкам</description>
+    </gameinfo>
+    
+    <themes>
+        <!-- Тема: Мебель -->
+        <theme name="Мебель" id="1">
+            <level level="1" cards="6" required_score="80">
+                <question>
+                    <image>furniture/chair.png</image>
+                    <english>chair</english>
+                    <russian>стул</russian>
+                    <hint>На этом сидят</hint>
+                </question>
+                <question>
+                    <image>furniture/table.png</image>
+                    <english>table</english>
+                    <russian>стол</russian>
+                    <hint>За этим едят и работают</hint>
+                </question>
+                <question>
+                    <image>furniture/bed.png</image>
+                    <english>bed</english>
+                    <russian>кровать</russian>
+                    <hint>На этом спят</hint>
+                </question>
+                <question>
+                    <image>furniture/sofa.png</image>
+                    <english>sofa</english>
+                    <russian>диван</russian>
+                    <hint>Мягкая мебель для отдыха</hint>
+                </question>
+                <question>
+                    <image>furniture/wardrobe.png</image>
+                    <english>wardrobe</english>
+                    <russian>шкаф</russian>
+                    <hint>Туда вешают одежду</hint>
+                </question>
+                <question>
+                    <image>furniture/desk.png</image>
+                    <english>desk</english>
+                    <russian>письменный стол</russian>
+                    <hint>За ним пишут и учатся</hint>
+                </question>
+            </level>
+            
+            <level level="2" cards="9" required_score="85">
+                <question>
+                    <image>furniture/bookcase.png</image>
+                    <english>bookcase</english>
+                    <russian>книжный шкаф</russian>
+                    <hint>Там хранят книги</hint>
+                </question>
+                <question>
+                    <image>furniture/armchair.png</image>
+                    <english>armchair</english>
+                    <russian>кресло</russian>
+                    <hint>Удобное мягкое место</hint>
+                </question>
+                <question>
+                    <image>furniture/stool.png</image>
+                    <english>stool</english>
+                    <russian>табурет</russian>
+                    <hint>Стул без спинки</hint>
+                </question>
+                <question>
+                    <image>furniture/dresser.png</image>
+                    <english>dresser</english>
+                    <russian>комод</russian>
+                    <hint>Там хранят бельё</hint>
+                </question>
+                <question>
+                    <image>furniture/shelf.png</image>
+                    <english>shelf</english>
+                    <russian>полка</russian>
+                    <hint>На неё ставят книги и вещи</hint>
+                </question>
+                <question>
+                    <image>furniture/mirror.png</image>
+                    <english>mirror</english>
+                    <russian>зеркало</russian>
+                    <hint>В него смотрятся</hint>
+                </question>
+                <question>
+                    <image>furniture/curtains.png</image>
+                    <english>curtains</english>
+                    <russian>шторы</russian>
+                    <hint>Ими закрывают окна</hint>
+                </question>
+                <question>
+                    <image>furniture/rug.png</image>
+                    <english>rug</english>
+                    <russian>ковёр</russian>
+                    <hint>По нему ходят</hint>
+                </question>
+                <question>
+                    <image>furniture/lamp.png</image>
+                    <english>lamp</english>
+                    <russian>лампа</russian>
+                    <hint>Она освещает комнату</hint>
+                </question>
+            </level>
+            
+            <level level="3" cards="16" required_score="90">
+                <question>
+                    <image>furniture/coffee_table.png</image>
+                    <english>coffee table</english>
+                    <russian>журнальный столик</russian>
+                    <hint>На него ставят чай и журналы</hint>
+                </question>
+                <question>
+                    <image>furniture/ottoman.png</image>
+                    <english>ottoman</english>
+                    <russian>пуфик</russian>
+                    <hint>Маленькая мягкая мебель для ног</hint>
+                </question>
+                <question>
+                    <image>furniture/cabinet.png</image>
+                    <english>cabinet</english>
+                    <russian>шкафчик</russian>
+                    <hint>Небольшой шкаф для вещей</hint>
+                </question>
+                <question>
+                    <image>furniture/hanger.png</image>
+                    <english>hanger</english>
+                    <russian>вешалка</russian>
+                    <hint>На неё вешают одежду</hint>
+                </question>
+                <!-- Добавьте остальные вопросы до 16 -->
+            </level>
+        </theme>
+        
+        <!-- Тема: Еда -->
+        <theme name="Еда" id="2">
+            <level level="1" cards="6" required_score="80">
+                <question>
+                    <image>food/apple.png</image>
+                    <english>apple</english>
+                    <russian>яблоко</russian>
+                    <hint>Красный или зелёный фрукт</hint>
+                </question>
+                <question>
+                    <image>food/banana.png</image>
+                    <english>banana</english>
+                    <russian>банан</russian>
+                    <hint>Жёлтый длинный фрукт</hint>
+                </question>
+                <question>
+                    <image>food/bread.png</image>
+                    <english>bread</english>
+                    <russian>хлеб</russian>
+                    <hint>Его пекут из муки</hint>
+                </question>
+                <question>
+                    <image>food/cheese.png</image>
+                    <english>cheese</english>
+                    <russian>сыр</russian>
+                    <hint>Его делают из молока</hint>
+                </question>
+                <question>
+                    <image>food/milk.png</image>
+                    <english>milk</english>
+                    <russian>молоко</russian>
+                    <hint>Белый напиток от коровы</hint>
+                </question>
+                <question>
+                    <image>food/egg.png</image>
+                    <english>egg</english>
+                    <russian>яйцо</russian>
+                    <hint>Из него вылупляются цыплята</hint>
+                </question>
+            </level>
+        </theme>
+        
+        <!-- Тема: Цвета -->
+        <theme name="Цвета" id="3">
+            <level level="1" cards="6" required_score="80">
+                <question>
+                    <image>colors/red.png</image>
+                    <english>red</english>
+                    <russian>красный</russian>
+                    <hint>Цвет крови</hint>
+                </question>
+                <question>
+                    <image>colors/blue.png</image>
+                    <english>blue</english>
+                    <russian>синий</russian>
+                    <hint>Цвет неба</hint>
+                </question>
+                <question>
+                    <image>colors/green.png</image>
+                    <english>green</english>
+                    <russian>зелёный</russian>
+                    <hint>Цвет травы</hint>
+                </question>
+                <question>
+                    <image>colors/yellow.png</image>
+                    <english>yellow</english>
+                    <russian>жёлтый</russian>
+                    <hint>Цвет солнца</hint>
+                </question>
+                <question>
+                    <image>colors/black.png</image>
+                    <english>black</english>
+                    <russian>чёрный</russian>
+                    <hint>Цвет ночи</hint>
+                </question>
+                <question>
+                    <image>colors/white.png</image>
+                    <english>white</english>
+                    <russian>белый</russian>
+                    <hint>Цвет снега</hint>
+                </question>
+            </level>
+        </theme>
+        
+        <!-- Тема: Числительные -->
+        <theme name="Числительные" id="4">
+            <level level="1" cards="6" required_score="80">
+                <question>
+                    <image>numbers/one.png</image>
+                    <english>one</english>
+                    <russian>один</russian>
+                    <hint>1</hint>
+                </question>
+                <question>
+                    <image>numbers/two.png</image>
+                    <english>two</english>
+                    <russian>два</russian>
+                    <hint>2</hint>
+                </question>
+                <question>
+                    <image>numbers/three.png</image>
+                    <english>three</english>
+                    <russian>три</russian>
+                    <hint>3</hint>
+                </question>
+                <question>
+                    <image>numbers/four.png</image>
+                    <english>four</english>
+                    <russian>четыре</russian>
+                    <hint>4</hint>
+                </question>
+                <question>
+                    <image>numbers/five.png</image>
+                    <english>five</english>
+                    <russian>пять</russian>
+                    <hint>5</hint>
+                </question>
+                <question>
+                    <image>numbers/six.png</image>
+                    <english>six</english>
+                    <russian>шесть</russian>
+                    <hint>6</hint>
+                </question>
+            </level>
+        </theme>
+    </themes>
+</game>
