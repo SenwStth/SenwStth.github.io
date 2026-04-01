@@ -1,0 +1,10 @@
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\bin\Debug\тема 8.exe.config
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\bin\Debug\тема 8.exe
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\bin\Debug\тема 8.pdb
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема 8.csproj.AssemblyReference.cache
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема_8.Properties.Resources.resources
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема 8.csproj.GenerateResource.cache
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема 8.csproj.CoreCompileInputs.cache
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема 8.exe
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема 8.pdb
+C:\Users\timof\OneDrive\Desktop\тема 8\тема 8\obj\Debug\тема 8.exe.config
